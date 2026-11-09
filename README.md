@@ -1,6 +1,6 @@
 # ZONA 4
 
-Web de un gimnasio boutique **ficticio** en Tenerife. Proyecto de portfolio de [Mario Iglesias](https://mariete431-svg.github.io/MarioIglesias/).
+Web de un gimnasio boutique **ficticio** en Tenerife. Proyecto de portfolio de [Mario Iglesias](https://casaiglesias.es/).
 
 Web: https://mariete431-svg.github.io/zona4/
 
